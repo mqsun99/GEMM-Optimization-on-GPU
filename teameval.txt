@@ -1,0 +1,53 @@
+ 
+                       CSE 260, Parallel Computation
+                                (Spring 2022)
+                Department of Computer Science and Engineering 	
+                     University of California, San Diego 	
+
+
+		Team Self Evaluation Form, Assignment #2
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+
+(1) List the names of your team members:
+
+A: Yingqi Cao
+
+ 
+B: Miaoqiu Sun
+
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B
+meetings 	  	  	          10         10
+coding 	  	  	            30         40
+writeup 	  	  	          10         10
+planning (alone) 	  	  	  10         10
+total (including meetings) 	60         70 	  	 
+
+
+(3) Describe 
+  (a) what the major responsibilities of each team member were;
+    Yingqi: developed 2d tiling & shared memory (used in final version), memory coalesing, parameter tuning, writeup
+    Miaoqiu: developed 2d tiling & shared memory, zero padding tuning parameters, writeup
+  
+  (b) whether or not you completed the assignment;
+    Yes, we completed the assignment.
+  
+  (c) the major strengths and weaknesses in your team, e.g. how
+      your team worked together;
+    Our team's strength is that we had pretty good communications and met up as much as we could to
+    solve problems. We think we are good so far and don't have any weaknesses in terms of working together.
+  
+  (d) the lessons learned from these events;
+    We learned how to code in CUDA, how to measure the GPU's performance, and some methods to optimize the performance.
+
+  (e) whether and how you plan to change the way your work together and
+    We worked very well so nothing needed to be changed.
+
+  (f) anything else that comes to mind.
+    This PA was really fun to implement and we learned a lot throughout the process.
