@@ -1,7 +1,5 @@
-Matrix Multiplication with CUDA
+Matrix-Multiplication Optimization on GPU with CUDA based on CUTLASS method
 
-You will only need to edit files in src_todo folder.
-Run all your commands from the root directory of the git repo.
 
 To build the binary:
 make -C build_T4 `cat src_todo_T4/OPTIONS.txt`
